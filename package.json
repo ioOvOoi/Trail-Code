@@ -1,5 +1,5 @@
 {
-  "name": "@nanonets/graft",
+  "name": "@ioovooi/trail-code",
   "version": "0.22.0",
   "description": "Build a repo's context graph as a folder of linked markdown files: a local, regenerable cache that every query keeps in sync with your code.",
   "keywords": [
@@ -34,7 +34,7 @@
     "./package.json": "./package.json"
   },
   "bin": {
-    "graft": "dist/bin/graft.js"
+    "trail": "dist/bin/trail.js"
   },
   "files": [
     "dist",
